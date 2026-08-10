@@ -1,4 +1,4 @@
-# [estudos] Challenge 02 - Coffee Delivery
+# Challenge 02 - Coffee Delivery
 
 > This project used to live together with several other study projects in a single monorepo. It has since been split out into its own dedicated repository. See the original [estudos-ignite](https://github.com/vinicastroo/estudos-ignite) repo for more context.
 
