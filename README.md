@@ -1,19 +1,19 @@
-# Desafio 02 - Coffee Delivery
+# Challenge 02 - Coffee Delivery
 
-Desafio do módulo de React.js do Ignite (Rocketseat), turma 2022. Um e-commerce de café: listagem de produtos na Home, carrinho de compras com controle de quantidade, checkout com formulário de endereço/pagamento e página de sucesso do pedido, usando Context API e `useReducer` para gerenciar o carrinho.
+Challenge from the React.js module of Ignite (Rocketseat), 2022 class. A coffee e-commerce: product listing on the Home page, shopping cart with quantity control, checkout with an address/payment form, and an order success page, using Context API and `useReducer` to manage the cart.
 
-## Tecnologias
+## Technologies
 
 - React
 - TypeScript
 - Vite
 - React Router DOM
 - styled-components
-- react-hook-form + zod (validação de formulários)
+- react-hook-form + zod (form validation)
 - immer
 - phosphor-react
 
-## Como rodar
+## How to run
 
 ```bash
 npm install
