@@ -2,6 +2,8 @@
 
 > This project used to live together with several other study projects in a single monorepo. It has since been split out into its own dedicated repository. See the original [estudos-ignite](https://github.com/vinicastroo/estudos-ignite) repo for more context.
 
+![screenshot](./screenshot.png)
+
 Challenge from the React.js module of Ignite (Rocketseat), 2022 class. A coffee e-commerce: product listing on the Home page, shopping cart with quantity control, checkout with an address/payment form, and an order success page, using Context API and `useReducer` to manage the cart.
 
 ## Technologies
